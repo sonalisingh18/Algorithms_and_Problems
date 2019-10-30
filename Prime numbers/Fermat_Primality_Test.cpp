@@ -1,3 +1,7 @@
+/*
+Sonali Singh
+Question link: https://www.spoj.com/problems/PON/
+*/
 #include <bits/stdc++.h> 
 #include <boost/multiprecision/cpp_int.hpp> 
 using namespace boost::multiprecision; 
