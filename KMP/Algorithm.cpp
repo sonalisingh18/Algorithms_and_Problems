@@ -1,4 +1,7 @@
-// Source: https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+/*Sonali Singh
+Source: https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+*/
+
 // C++ program for implementation of KMP pattern searching 
 // algorithm 
 #include <bits/stdc++.h> 
