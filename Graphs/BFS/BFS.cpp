@@ -34,7 +34,6 @@ void BFS(ll s, ll n, vector<ll>adj[]){
                 level[adj[x][i]]=level[x]+1;
                 q.push(adj[x][i]);
                 vis[adj[x][i]]=1;
-                //cout<<adj[x][i]<<" ";
             }
         }
         q.pop();
