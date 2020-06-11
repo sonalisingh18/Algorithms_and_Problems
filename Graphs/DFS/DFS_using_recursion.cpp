@@ -1,5 +1,7 @@
 /*
   Sonali Singh
+  Time complexity: O(V+E)
+  Space Complexity: O(V) ->(extra visited array is needed of size V)
 */
 
 #include<bits/stdc++.h>
